@@ -5,11 +5,13 @@ AR Welt is an interdisplinary project that aims to provide integrated AR-documen
 
 ## Team members
 ### FreeTech 
+
+### Tech talents
 Bitter, Dan-Yoel (PM)
 Vodopianova, Mariia (ID)
 Lam, Eva (SE)
 Santos Ahouraiyan, Adib Neysan(SE)
-### Journalism School 
+### Journalism talents
 rauwallner, Samira Joy 
 Daldrup, Tim 
 Hallier, Marie-Charlott 
