@@ -11,20 +11,18 @@
 
 
 <body>
-    <a-scene embedded arjs>
-        <!--<a-marker type="pattern" url="markers/pattern-ar_test_marker.patt"></a-marker>-->
-        <a-marker-camera preset="hiro">
+    <a-scene embedded arjs='sourceType: webcam;'>
+        
+        <a-marker preset="kanji">
             <a-entity gltf-model="assets/plant.glb" scale="5 5 5"></a-entity>
-        </a-marker-camera>
+        </a-marker>
 
-        <!--
-        <a-marker-camera preset="kanji">
+        <a-marker preset="hiro">
             <a-entity gltf-model="assets/trial.gltf" scale="5 5 5"></a-entity>
-        </a-marker-camera>-->
+        </a-marker>
 
-        <!--<a-marker-camera type="pattern" patternUrl="markers/pattern-ar_test_marker.patt"></a-marker-camera>-->
+        <a-entity camera></a-entity>
     </a-scene>
-
 </body>
 
 
