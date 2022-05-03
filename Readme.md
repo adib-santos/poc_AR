@@ -32,9 +32,10 @@ click [here](https://docs.google.com/spreadsheets/d/1aYU6RiC6nUGY-3JCLFp5gkVqBgi
 
 ## User Experience Simulation 
 
-
+[Demo video click here](https://youtu.be/oLmoKSDBYs4)
 ## User mood board 
 
+Click [here](https://miro.com/app/board/uXjVO4eV6YQ=/) to document UX journey and empathize with end-users. 
 
 
 
