@@ -26,7 +26,7 @@ To enable the general public to understand the heart journey of those who have d
 
 click [here](https://docs.google.com/document/d/1fcRHllp0J6LGSOzd_OJhyayq3Jr-e08TNtX8E0yGi8Y/edit) for the storyline draft 
 
-click [here](https://docs.google.com/spreadsheets/d/1aYU6RiC6nUGY-3JCLFp5gkVqBgia4DCQ2-oV3kPQRjU/edit#gid=0)for protagonist list in progress
+click [here](https://docs.google.com/spreadsheets/d/1aYU6RiC6nUGY-3JCLFp5gkVqBgia4DCQ2-oV3kPQRjU/edit#gid=0) for protagonist list in progress
 
 ## User Experience Simulation 
 
