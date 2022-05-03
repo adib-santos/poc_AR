@@ -3,6 +3,8 @@
 AR Welt is an interdisplinary project that aims to provide integrated AR-documentary experience for audience to understand the heart journey of a german soldier through the lens of german soldiers.  
 ![AR Welt diagram](https://i.ibb.co/9pMG5Y4/AR-Welt-drawio-2.png)
 
+## Project Timeline
+Feb - June 2022
 ## Team members
 ### FreeTech 
 
