@@ -12,31 +12,19 @@
 </head>
 
 
-
-
-
 <body>
-    <a-scene embedded arjs>
-        <a-entity gltf-model="assets/plant.glb" scale="5 5 5"></a-entity>
-        <!-- <a-marker-camera preset="hiro"></a-marker-camera> -->
-        <a-marker-camera preset='custom' type='pattern' url='assets/pattern-Group1.patt'></a-marker-camera>
+    <a-scene embedded arjs='sourceType: webcam;'>
+        
+        <a-marker preset="kanji">
+            <a-entity gltf-model="assets/plant.glb" scale="5 5 5"></a-entity>
+        </a-marker>
+
+        <a-marker preset="hiro">
+            <a-entity gltf-model="assets/trial.gltf" scale="5 5 5"></a-entity>
+        </a-marker>
+
+        <a-entity camera></a-entity>
     </a-scene>
 </body>
 
-<!-- Successful import and showcasing of 3d models 
-
-<body>
-
-    <a-scene>
-        <a-assets>
-            <a-assets-items id="mask" src="assets/trial.gltf"></a-assets-items>
-            <a-assets-items id="plant" src="assets/plant.glb"></a-assets-items>
-        </a-assets>
-
-        <a-entity gltf-model="#plant"></a-entity>
-        <a-entity gltf-model="#mask"></a-entity>
-    </a-scene>
-</body>
-</html>
--->
 
