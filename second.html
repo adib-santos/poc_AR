@@ -1,3 +1,5 @@
+<!-- Building upon index, creating individual marker images -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,7 +15,7 @@
 <body>
     <a-scene embedded arjs='sourceType: webcam;'>
 
-        <a-marker preset="custom" type="pattern" url="markers/pattern-one.patt">
+        <a-marker preset="kanji">
             <a-entity gltf-model="assets/plant.glb" scale="5 5 5"></a-entity>
         </a-marker>
 
@@ -21,8 +23,9 @@
             <a-entity gltf-model="assets/trial.gltf" scale="5 5 5"></a-entity>
         </a-marker>
 
-        <a-marker type='barcode' value='5'>
-            <a-box position='0 0.5 0' material='color: blue;'></a-box>
+
+        <a-marker preset="custom" type="pattern" url="markers/pattern-one.patt">
+            <a-entity gltf-model="assets/trial.gltf" scale="5 5 5"></a-entity>
         </a-marker>
 
         <a-entity camera></a-entity>
