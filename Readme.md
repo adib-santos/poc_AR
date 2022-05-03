@@ -6,8 +6,6 @@ AR Welt is an interdisplinary project that aims to provide integrated AR-documen
 ## Project Timeline
 Feb - June 2022
 ## Team members
-### FreeTech 
-
 ### Tech talents
 Bitter, Dan-Yoel (PM)
 Vodopianova, Mariia (ID)
@@ -30,11 +28,12 @@ click [here](https://docs.google.com/document/d/1fcRHllp0J6LGSOzd_OJhyayq3Jr-e08
 
 click [here](https://docs.google.com/spreadsheets/d/1aYU6RiC6nUGY-3JCLFp5gkVqBgia4DCQ2-oV3kPQRjU/edit#gid=0) for protagonist list in progress
 
-## User Experience Simulation 
+## Documentary Simulation
+[Demo Documentary click here](https://youtu.be/HkStH56HFr8)
 
-[Demo video click here](https://youtu.be/oLmoKSDBYs4)
+## User Experience Simulation
+[Demo User Experience click here](https://youtu.be/SzYsWCbF87g)
 ## User mood board 
-
 Click [here](https://miro.com/app/board/uXjVO4eV6YQ=/) to document UX journey and empathize with end-users. 
 
 
