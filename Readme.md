@@ -28,15 +28,18 @@ click [here](https://docs.google.com/document/d/1fcRHllp0J6LGSOzd_OJhyayq3Jr-e08
 
 click [here](https://docs.google.com/spreadsheets/d/1aYU6RiC6nUGY-3JCLFp5gkVqBgia4DCQ2-oV3kPQRjU/edit#gid=0) for protagonist list in progress
 
+## Remarks on marker-based scanning 
+It is important to note that for markers to work properly in documentary, the center has to be color #F0F0F0, while outside has to be black, outlined by a white border ( >4px width). In order to avoid scanning confusion, it is important to note that not use similar symbols in the center. For example if one marker is 'AR', the other marker shouldn't be 'AR2'. 
 ## Documentary Simulation
 [Demo Documentary click here](https://youtu.be/HkStH56HFr8)
-
 ## User Experience Simulation
 [Demo User Experience click here](https://youtu.be/SzYsWCbF87g)
 ## User mood board 
 Click [here](https://miro.com/app/board/uXjVO4eV6YQ=/) to document UX journey and empathize with end-users. 
-
-
+## What's next 
+After this project phase, for the team that is hoping to take up this project, the next steps would be looking to : 
+1. Look into how this can be scaled up on national TV level
+2. Infrastructure requirements to make the AR experience smooth. 
 
 
 
