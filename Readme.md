@@ -1,8 +1,6 @@
 # AR Welt 
-
 AR Welt is an interdisplinary project that aims to provide integrated AR-documentary experience for audience to understand the heart journey of a german soldier through the lens of german soldiers.  
 ![AR Welt diagram](https://i.ibb.co/9pMG5Y4/AR-Welt-drawio-2.png)
-
 ## Project Timeline
 Feb - June 2022
 ## Team members
@@ -18,10 +16,8 @@ Hallier, Marie-Charlott
 Twardawa, Jasmin
 Stascheit, Maximilian
 Müller, Jenna
-
 ## Objective 
 To enable the general public to understand the heart journey of those who have decided to join the German army through a 20 min documentary via the companion of mobile web AR experience.
-
 ## Storyline 
 
 click [here](https://docs.google.com/document/d/1fcRHllp0J6LGSOzd_OJhyayq3Jr-e08TNtX8E0yGi8Y/edit) for the storyline draft 
@@ -40,6 +36,8 @@ Click [here](https://miro.com/app/board/uXjVO4eV6YQ=/) to document UX journey an
 After this project phase, for the team that is hoping to take up this project, the next steps would be looking to : 
 1. Look into how this can be scaled up on national TV level
 2. Infrastructure requirements to make the AR experience smooth. 
+## Deployment Options
+As a team, we have evaluated and investigated different deployment options, which you can find [here](https://docs.google.com/document/d/1gw72x8VcZdBaXSfdBey-huKr_AmJcjgAUHnXnaMBCVo/edit?usp=sharing). But we would recommend Combell, which has a lot of experiences hosting AR experiences. 
 
 
 
