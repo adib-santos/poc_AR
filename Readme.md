@@ -18,6 +18,12 @@ Stascheit, Maximilian
 Müller, Jenna
 ## Objective 
 To enable the general public to understand the heart journey of those who have decided to join the German army through a 20 min documentary via the companion of mobile web AR experience.
+
+## What is WebAR? 
+Learn more about WebAR [here](https://youtu.be/I9EZ4k-8dLA)
+
+## How WebAR can be used in journalism/ documentary production? 
+Some of the use cases we think of that makes AR applicable in relevant to journalism is that it could provide in-depth information about the person being interviewed / complex topic that is discussed. 
 ## Storyline 
 
 click [here](https://docs.google.com/document/d/1fcRHllp0J6LGSOzd_OJhyayq3Jr-e08TNtX8E0yGi8Y/edit) for the storyline draft 
