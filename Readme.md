@@ -24,6 +24,8 @@ Learn more about WebAR [here](https://youtu.be/I9EZ4k-8dLA)
 
 ## How WebAR can be used in journalism/ documentary production? 
 Some of the use cases we think of that makes AR applicable in relevant to journalism is that it could provide in-depth information about the person being interviewed / complex topic that is discussed. 
+
+it can also incorporate sharable content into the experience.
 ## Storyline 
 
 click [here](https://docs.google.com/document/d/1fcRHllp0J6LGSOzd_OJhyayq3Jr-e08TNtX8E0yGi8Y/edit) for the storyline draft 
