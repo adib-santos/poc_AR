@@ -44,6 +44,9 @@ Click [here](https://miro.com/app/board/uXjVO4eV6YQ=/) to document UX journey an
 After this project phase, for the team that is hoping to take up this project, the next steps would be looking to : 
 1. Look into how this can be scaled up on national TV level
 2. Infrastructure requirements to make the AR experience smooth. 
+
+## Accessibility 
+We also take into the account and consider the accessibility of this product. We want this product to be as inclusive as possible. We also encourage the people who will be carrying this project forward would consider how people of disabilities or minorities experience this product? 
 ## Deployment Options
 As a team, we have evaluated and investigated different deployment options, which you can find [here](https://docs.google.com/document/d/1gw72x8VcZdBaXSfdBey-huKr_AmJcjgAUHnXnaMBCVo/edit?usp=sharing). But we would recommend Combell, which has a lot of experiences hosting AR experiences. 
 
