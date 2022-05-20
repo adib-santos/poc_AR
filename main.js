@@ -2,7 +2,7 @@
 // Number of fingers determines action
 
 
-
+/*
 var sceneEL = document.getElementById('scene'); 
 
 sceneEL.addEventListener('onefingermove', handleRotation); 
@@ -44,3 +44,5 @@ handleRotation(event) {
       el.object3D.scale.z = scaleFactor * initialScale.z;
     }
   }
+
+  */
