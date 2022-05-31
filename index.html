@@ -13,11 +13,14 @@
 
         <!-- Default touch events -- from https://github.com/fcor/arjs-gestures--> 
         <script src="https://raw.githack.com/fcor/arjs-gestures/master/dist/gestures.js"></script>
+        <!-- For testing -->
+        <script src="./tests/gltf-model.js"></script>
     </head>
 
 
 <body style="margin : 0px; overflow: hidden;">
     <a-scene 
+        stats
         embedded 
         arjs="sourceType: webcam; sourceWidth:1280; sourceHeight:960; displayWidth: 1280; displayHeight: 960;"
         renderer="logarithmicDepthBuffer: true;"
