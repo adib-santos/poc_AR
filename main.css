@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    /* no unit */
+    padding: 0;
+    /* no unit */
+}
+
+.header {
+    padding: 10px;
+    align-items: center;
+    background: black;
+    color: white;
+}
+
+.section {
+    position: relative;
+    margin: 100px;
+}
+
+.wrapper {
+    padding: 0 4rem;
+}
+
+#canvas {
+    position: absolute;
+}
+
+#scanned {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+#video-wrapper {
+    height: 480px;
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
