@@ -17,7 +17,7 @@ Twardawa, Jasmin
 Stascheit, Maximilian
 Müller, Jenna
 ## Objective 
-To enable the general public to understand the heart journey of those who have decided to join the German army through a 20 min documentary via the companion of mobile web AR experience.
+To enable the general public to understand the heart journey of those who have decided to join the German army through a 20 min documentary via the companion of mobile web AR experience. This is also a part of the freetech project that aims to bring together journalists and digital pioneers to create the future of journalism together.
 
 ## What is WebAR? 
 Learn more about WebAR [here](https://youtu.be/I9EZ4k-8dLA)
@@ -40,10 +40,19 @@ It is important to note that for markers to work properly in documentary, the ce
 [Demo User Experience click here](https://youtu.be/SzYsWCbF87g)
 ## User mood board 
 Click [here](https://miro.com/app/board/uXjVO4eV6YQ=/) to document UX journey and empathize with end-users. 
+
+## Tech stack 
+powered by [Aframe](https://aframe.io/).
+
+## Challenges encountered on the way 
+The most challenging part of this project is the testing part, ensuring it works on all devices and all browsers. At the moment, the framework for testing AFrame is still very limited. We utilized [this framework](https://github.com/aframevr/aframe/tree/master/tests) to compose our unit tests. [This](https://aframe.io/docs/1.3.0/introduction/models.html#testing-for-performance) also offers some good insights into how to test the models.
 ## What's next 
 After this project phase, for the team that is hoping to take up this project, the next steps would be looking to : 
 1. Look into how this can be scaled up on national TV level
 2. Infrastructure requirements to make the AR experience smooth. 
+
+## Our Journey of collaboration
+You might wonder, how do developers and journalists actually collaborate? To share our journey, we have created this [video]()
 
 ## Accessibility 
 We also take into the account and consider the accessibility of this product. We want this product to be as inclusive as possible. We also encourage the people who will be carrying this project forward would consider how people of disabilities or minorities experience this product? 
