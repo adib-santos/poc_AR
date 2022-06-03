@@ -45,7 +45,10 @@ Click [here](https://miro.com/app/board/uXjVO4eV6YQ=/) to document UX journey an
 powered by [Aframe](https://aframe.io/).
 
 ## Challenges encountered on the way 
-The most challenging part of this project is the testing part, ensuring it works on all devices and all browsers. At the moment, the framework for testing AFrame is still very limited. We utilized [this framework](https://github.com/aframevr/aframe/tree/master/tests) to compose our unit tests. [This](https://aframe.io/docs/1.3.0/introduction/models.html#testing-for-performance) also offers some good insights into how to test the models.
+The most challenging part of this project is the testing part, ensuring it works on all devices and all browsers. At the moment, the framework for testing AFrame is still very limited. We utilized [this framework](https://github.com/aframevr/aframe/tree/master/tests) to compose our unit tests. [This](https://aframe.io/docs/1.3.0/introduction/models.html#testing-for-performance) also offers some good insights into how to unit test the models.
+
+## Testing 
+For end-to-end test, [this](https://github.com/diarmidmackenzie/aframe-e2e-testing) is a good starting point once end-to-end tests are requied. 
 ## What's next 
 After this project phase, for the team that is hoping to take up this project, the next steps would be looking to : 
 1. Look into how this can be scaled up on national TV level
