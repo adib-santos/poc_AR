@@ -52,6 +52,8 @@ For end-to-end test, [this](https://github.com/diarmidmackenzie/aframe-e2e-testi
 
 ## Architecture Diagram
 ![AR architecture diagram](https://i.ibb.co/WpSPjwR/ARWElt-architecture-drawio.png)
+
+It is deployed with AWS cloudfront supported by ASIT services. Contact: Jost Klitzsch
 ## What's next 
 After this project phase, for the team that is hoping to take up this project, the next steps would be looking to : 
 1. Look into how this can be scaled up on national TV level
