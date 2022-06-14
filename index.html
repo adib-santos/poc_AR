@@ -33,14 +33,8 @@
         <a-marker 
             preset="custom" 
             type="pattern" 
-            url="assets/pattern-qr1.patt"
-            smooth="true"
-            smoothCount="10"
-            smoothTolerance=".01"
-            smoothThreshold="5"
-            raycaster="objects: .clickable"
-            emitevents="true"
-            cursor="fuse: false; rayOrigin: mouse;">
+            url="assets/pattern-qr1.patt">
+        
             <a-entity 
                 position="0 0 0" 
                 rotation="90 180 360" 
@@ -63,14 +57,8 @@
         <a-marker 
             preset="custom" 
             type="pattern" 
-            url="assets/pattern-qr2.patt"
-            smooth="true"
-            smoothCount="10"
-            smoothTolerance=".01"
-            smoothThreshold="5"
-            raycaster="objects: .clickable"
-            emitevents="true"
-            cursor="fuse: false; rayOrigin: mouse;">
+            url="assets/pattern-qr2.patt">
+
             <a-entity 
                 position="0 0 0" 
                 rotation="270 0  0" 
@@ -81,19 +69,6 @@
                 gltf-model="assets/plant.glb"
                 crossorigin="anonymous">
             </a-entity>
-            <!-- Arrows UI for rotation 
-            <a-image 
-                scale="0.5 0.5 0.5"
-                position="0.5 1 -1.2"    
-                rotation="75 90 100"
-                src="rotate.png">
-            </a-image>
-            <a-image
-                scale="0.5 0.5 0.5"
-                position="-0.5 1 1.2"
-                rotation="75 90 225"
-                src="rotate.png">
-            </a-image> -->
         </a-marker>
 
         <a-entity camera></a-entity>
