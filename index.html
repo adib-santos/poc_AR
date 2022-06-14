@@ -25,8 +25,10 @@
         arjs="sourceType: webcam; sourceWidth:1280; sourceHeight:960; displayWidth: 1280; displayHeight: 960;"
         renderer="logarithmicDepthBuffer: true;"
         vr-mode-ui="enabled: false"
-        gesture-detector
         id="scene">
+
+        <!-- Used for touch events 
+        gesture detector -->
 
 
         <!-- TANK 3D ELEMENT -->
@@ -46,10 +48,11 @@
                 rotation="90 180 360" 
                 scale="0.01 0.01 0.01" 
                 class="clickable"
-                gesture-handler="minScale: 0.25; maxScale:10"
                 animation-mixer="clip:Take 001"
                 gltf-model="assets/scene.glb"
                 crossorigin="anonymous">
+                <!-- Used to specicfy enlarging of 3d element
+                    gesture-handler="minScale: 0.25; maxScale:10"-->
                 <a-image 
                     position="5 5 5"
                     scale="5 5 5 "
@@ -76,10 +79,11 @@
                 rotation="270 0  0" 
                 scale="5 5 5"
                 class="clickable"
-                gesture-handler="minScale: 0.25; maxScale:10"
                 animation-mixer="clip:Take 001"
                 gltf-model="assets/plant.glb"
                 crossorigin="anonymous">
+                <!-- Used to specicfy enlarging of 3d element
+                    gesture-handler="minScale: 0.25; maxScale:10"-->
             </a-entity>
         </a-marker>
 
