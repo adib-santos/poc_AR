@@ -33,8 +33,14 @@
         <a-marker 
             preset="custom" 
             type="pattern" 
-            url="assets/pattern-qr1.patt">
-        
+            url="assets/pattern-qr1.patt"
+            smooth="true"
+            smoothCount="10"
+            smoothTolerance=".01"
+            smoothThreshold="5"
+            raycaster="objects: .clickable"
+            emitevents="true"
+            cursor="fuse: false; rayOrigin: mouse;"> 
             <a-entity 
                 position="0 0 0" 
                 rotation="90 180 360" 
@@ -57,8 +63,14 @@
         <a-marker 
             preset="custom" 
             type="pattern" 
-            url="assets/pattern-qr2.patt">
-
+            url="assets/pattern-qr2.patt"
+            smooth="true"
+            smoothCount="10"
+            smoothTolerance=".01"
+            smoothThreshold="5"
+            raycaster="objects: .clickable"
+            emitevents="true"
+            cursor="fuse: false; rayOrigin: mouse;">
             <a-entity 
                 position="0 0 0" 
                 rotation="270 0  0" 
