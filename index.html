@@ -35,7 +35,7 @@
         <a-marker 
             preset="custom" 
             type="pattern" 
-            url="assets/pattern-qr1.patt"
+            url="assets/scan-here.patt"
             smooth="true"
             smoothCount="10"
             smoothTolerance=".01"
@@ -58,7 +58,7 @@
                     scale="5 5 5 "
                     src="rotate.png"
                     crossorigin="anonymous"></a-image>
- 
+
         </a-marker>
 
         <!-- PLANT 3D ELEMENT -->
@@ -76,10 +76,10 @@
             <a-entity 
                 position="0 0 0" 
                 rotation="270 0  0" 
-                scale="5 5 5"
+                scale="15 15 15"
                 class="clickable"
-            
-                gltf-model="assets/Bundeswehr_2.glb"
+                animation-mixer="clip:JagdtigerAction"
+                gltf-model="assets/scene.glb"
                 crossorigin="anonymous">
                 <!-- Used to specicfy enlarging of 3d element
                     gesture-handler="minScale: 0.25; maxScale:10"-->
@@ -91,4 +91,4 @@
 </body>
 </html>
 
-    <!--animation-mixer="clip:Take 001"-->
+    <!---->
