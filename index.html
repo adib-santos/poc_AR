@@ -31,36 +31,7 @@
         gesture detector -->
 
 
-        <!-- TANK 3D ELEMENT -->
-        <a-marker 
-            preset="custom" 
-            type="pattern" 
-            url="assets/scan-here.patt"
-            smooth="true"
-            smoothCount="10"
-            smoothTolerance=".01"
-            smoothThreshold="5"
-            raycaster="objects: .clickable"
-            emitevents="true"
-            cursor="fuse: false; rayOrigin: mouse;"> 
-            <a-entity 
-                position="0 0 0" 
-                rotation="90 180 360" 
-                scale="0.5 0.5 0.5" 
-                class="clickable"
-                gltf-model="assets/Bundeswehr.glb"
-                crossorigin="anonymous">
-                <!-- Used to specicfy enlarging of 3d element
-                    gesture-handler="minScale: 0.25; maxScale:10"-->
-                <a-image 
-                    position="5 5 5"
-                    scale="5 5 5 "
-                    src="rotate.png"
-                    crossorigin="anonymous"></a-image>
-
-        </a-marker>
-
-        <!-- PLANT 3D ELEMENT -->
+        <!-- Tanks AR experience -->
         <a-marker 
             preset="custom" 
             type="pattern" 
