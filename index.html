@@ -39,20 +39,43 @@
             raycaster="objects: .clickable"
             emitevents="true"
             cursor="fuse: false; rayOrigin: mouse;">
-            <a-entity 
+
+          <!-- Tank animation 1-->
+            <a-entity
                 position="0 0 0" 
                 rotation="0 90 280" 
-                scale="10 10 10"
+                scale="3 3 3"
                 class="clickable"
-                animation-mixer="clip:JagdtigerAction"
-                gltf-model="assets/tank.glb"
+                animation-mixer="clip:Tank_1_Animation"
+                gltf-model="assets/tank_1.glb"
                 crossorigin="anonymous">
-                <!-- Used to specicfy enlarging of 3d element
-                    gesture-handler="minScale: 0.25; maxScale:10"-->
             </a-entity>
+
+            <!-- Plane animation -->
+            <a-entity
+                position="0 10 0" 
+                rotation="0 90 280" 
+                scale="3 3 3"
+                class="clickable"
+                animation-mixer="clip:Plane_Animation"
+                gltf-model="assets/plane.glb"
+                crossorigin="anonymous">
+            </a-entity>
+
+            <!-- Tank animation 2-->
+            <a-entity
+                position="0 10 0" 
+                rotation="0 90 280" 
+                scale="3 3 3"
+                class="clickable"
+                animation-mixer="clip:Tank_2_Animation"
+                gltf-model="assets/tank_2.glb"
+                crossorigin="anonymous">
+            </a-entity>
+
         </a-marker>
 
-    <a-box></a-box>
+  
     <a-entity camera position="0 0 0"></a-entity>
     </a-scene>
 </body>
