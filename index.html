@@ -29,41 +29,11 @@
         <!-- Used for touch events 
         gesture detector -->
 
-
-        <!-- TANK 3D ELEMENT -->
+        <!-- Bundeswehr AR Scene -->
         <a-marker 
             preset="custom" 
             type="pattern" 
-            url="assets/pattern-Bundeswehr.patt"
-            smooth="true"
-            smoothCount="10"
-            smoothTolerance=".01"
-            smoothThreshold="5"
-            raycaster="objects: .clickable"
-            emitevents="true"
-            cursor="fuse: false; rayOrigin: mouse;"> 
-            <a-entity 
-                position="0 0 0" 
-                rotation="90 180 360" 
-                scale="0.5 0.5 0.5" 
-                class="clickable"
-                gltf-model="assets/Bundeswehr.glb"
-                crossorigin="anonymous">
-                <!-- Used to specicfy enlarging of 3d element
-                    gesture-handler="minScale: 0.25; maxScale:10"-->
-                <a-image 
-                    position="5 5 5"
-                    scale="5 5 5 "
-                    src="rotate.png"
-                    crossorigin="anonymous"></a-image>
-
-        </a-marker>
-
-        <!-- PLANT 3D ELEMENT -->
-        <a-marker 
-            preset="custom" 
-            type="pattern" 
-            url="assets/pattern-qr2.patt"
+            url="assets/scan-here.patt"
             smooth="true"
             smoothCount="10"
             smoothTolerance=".01"
@@ -73,8 +43,8 @@
             cursor="fuse: false; rayOrigin: mouse;">
             <a-entity 
                 position="0 0 0" 
-                rotation="270 0  0" 
-                scale="15 15 15"
+                rotation="0 90 280" 
+                scale="10 10 10"
                 class="clickable"
                 animation-mixer="clip:JagdtigerAction"
                 gltf-model="assets/scene.glb"
@@ -89,5 +59,3 @@
     </a-scene>
 </body>
 </html>
-
-    <!---->
